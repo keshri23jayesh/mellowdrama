@@ -110,7 +110,7 @@ padding-left: .8rem !important;
           <div class="carousel-item">
             <img class="first-slide" src="images/slider/9.jpg" alt="First slide">
         
-          </div>		 
+          </div>     
            <div class="carousel-item">
             <img class="first-slide" src="images/slider/10.jpg" alt="First slide">
         
@@ -143,8 +143,8 @@ padding-left: .8rem !important;
             <img class="first-slide" src="images/slider/17.jpg" alt="First slide">
         
           </div>
-		  
-	   </div>
+      
+     </div>
         <!-- <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>
@@ -169,13 +169,13 @@ padding-left: .8rem !important;
           <li data-target="#myCar" data-slide-to="1"></li>
           <li data-target="#myCar" data-slide-to="2"></li>
         </ol>
-        <div class="carousel-inner">
+        <div class="carousel-inner" style="height:20rem !important;">
           <div class="carousel-item active">
             
            <p>jayesh</p>
 
           </div>
-          <div class="carousel-item">
+          <div class="carousel-item" >
            
            <p>jayesh</p> 
                
@@ -186,7 +186,7 @@ padding-left: .8rem !important;
 
           </div>
        </div>
-     </div>
+       <div>
          <a class="carousel-control-prev" href="#myCar" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>
@@ -195,7 +195,9 @@ padding-left: .8rem !important;
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a> 
-      </div>         
+      </div>   
+     </div>
+
     </section>
 
 
@@ -209,8 +211,21 @@ padding-left: .8rem !important;
 
       <!-- FOOTER -->
       <footer class="container">
-        <p class="float-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2017-2018 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+       <div class="container-fluid">
+        <div class="row">
+         <div class="col-md-3 col-xs-12 col-sm-6">
+            <p>jayesh</p>
+         </div>
+         <div class="col-md-3 col-xs-12 col-sm-6">
+            <p>jayesh</p>
+         </div>
+         <div class="col-md-3 col-xs-12 col-sm-6">
+            <p>jayesh</p>
+         </div>
+         <div class="col-md-3 col-xs-12 col-sm-6">
+            <p>jayesh</p>
+         </div>
+       </div>
       </footer>
     </main>
     
